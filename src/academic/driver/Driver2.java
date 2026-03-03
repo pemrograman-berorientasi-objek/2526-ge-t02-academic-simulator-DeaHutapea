@@ -46,3 +46,6 @@ public class Driver2 {
         input.close(); // Menutup scanner
     }
 }
+
+
+
